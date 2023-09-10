@@ -1,4 +1,4 @@
-"use strict";
+
 (function () {
   const searchKeyword = document.getElementById("search");
   const suggestionsContainer = document.getElementById("card-container");
